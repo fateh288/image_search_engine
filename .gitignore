@@ -1,0 +1,13 @@
+Phase1/Temp/
+Phase1/Outputs/
+Phase1/Docs/
+Phase1/Datasets/
+Phase1/.idea/
+Phase1/__pycache__/
+Phase2/Docs/
+Phase2/Datasets/
+*.jpg
+*.png
+*.pdf
+*.dat
+*.dir
